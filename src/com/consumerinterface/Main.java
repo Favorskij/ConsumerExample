@@ -1,4 +1,4 @@
-package com.consumerexample;
+package com.consumerinterface;
 
 import java.util.function.Consumer;
 
